@@ -1,0 +1,9 @@
+[submodule "third-party/jemalloc"]
+	path = third-party/jemalloc
+	url = https://github.com/jemalloc/jemalloc.git
+[submodule "third-party/tcmalloc"]
+	path = third-party/tcmalloc
+	url = https://github.com/google/tcmalloc.git
+[submodule "third-party/gflags"]
+	path = third-party/gflags
+	url = https://github.com/gflags/gflags.git
